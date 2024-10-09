@@ -1,4 +1,5 @@
 # PrintButton
+**Available via winget:** ***winget install --id=NASSe.K.PrintButton -e***
 
 Print Office documents (*.doc[x], *.xls[x], *.pdf) via dropping on
 a Floating Icon without having Office or pdf Reader installed. 
